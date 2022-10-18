@@ -1,0 +1,32 @@
+.navbar1{
+    background-color: rgb(16, 31, 99);
+    color: aliceblue;
+    height:80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.flights{
+    background-color:rgb(16, 31, 99);
+}
+.flights label{
+    color:aliceblue;
+    font-size: larger;
+}
+.Search input{
+    outline: none;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 5px;
+}
+.book{
+    border: 1px solid aliceblue;   
+}
+.book b{
+    margin: 10px;
+}
+.advance{
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 10px;
+}
